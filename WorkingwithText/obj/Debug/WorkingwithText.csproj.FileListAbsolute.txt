@@ -1,0 +1,7 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\bin\Debug\WorkingwithText.exe.config
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\bin\Debug\WorkingwithText.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\bin\Debug\WorkingwithText.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\obj\Debug\WorkingwithText.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\obj\Debug\WorkingwithText.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\obj\Debug\WorkingwithText.exe
+C:\Users\ltybj\OneDrive\Desktop\.net\WorkingwithText\WorkingwithText\obj\Debug\WorkingwithText.pdb
